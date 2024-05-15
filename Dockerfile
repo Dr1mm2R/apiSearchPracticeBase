@@ -8,7 +8,7 @@ RUN mkdir -p /app/uploadedImages/practiceBaseImages
 RUN mkdir -p /app/uploadedImages/profileImages
 
 WORKDIR /app
-COPY src/main/resources/searchpracticebaseproject-firebase-adminsdk-60xwx-7514dc3fb5.json /app/src/main/resources/
+COPY searchpracticebaseproject-firebase-adminsdk-60xwx-7514dc3fb5.json /app/src/main/resources/
 
 COPY . .
 
