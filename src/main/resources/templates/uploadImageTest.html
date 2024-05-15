@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Загрузка изображения</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Загрузка изображения</h1>
+
+<form id="image-form" enctype="multipart/form-data" action="/upload" method="post">
+    <input type="file" name="file" id="image-input" accept="image/*">
+    <input type="hidden" name="isPracticeBase" value="true">
+    <input type="hidden" name="uploadingID" value="2">
+    <button type="submit">Отправить изображение</button>
+</form>
+
+</body>
+</html>

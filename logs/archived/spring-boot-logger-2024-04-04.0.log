@@ -1,0 +1,17 @@
+2024-04-04 15:07:28,394 INFO [restartedMain] Starting ApiSearchPracticeBaseApplication using Java 18.0.1 with PID 1316 (C:\Users\gusdi\IdeaProjects\ApiSearchPracticeBase\target\classes started by gusdi in C:\Users\gusdi\IdeaProjects\ApiSearchPracticeBase)
+2024-04-04 15:07:32,447 DEBUG [restartedMain] Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-04-04 15:07:33,578 INFO [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-04 15:08:16,357 INFO [restartedMain] Started ApiSearchPracticeBaseApplication in 49.293 seconds (process running for 54.208)
+2024-04-04 15:08:52,844 INFO [restartedMain] Starting ApiSearchPracticeBaseApplication using Java 18.0.1 with PID 8512 (C:\Users\gusdi\IdeaProjects\ApiSearchPracticeBase\target\classes started by gusdi in C:\Users\gusdi\IdeaProjects\ApiSearchPracticeBase)
+2024-04-04 15:08:58,438 DEBUG [restartedMain] Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-04-04 15:09:01,337 INFO [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-04 15:09:30,197 INFO [restartedMain] Started ApiSearchPracticeBaseApplication in 38.58 seconds (process running for 42.283)
+2024-04-04 15:10:03,735 INFO [restartedMain] Starting ApiSearchPracticeBaseApplication using Java 18.0.1 with PID 19236 (C:\Users\gusdi\IdeaProjects\ApiSearchPracticeBase\target\classes started by gusdi in C:\Users\gusdi\IdeaProjects\ApiSearchPracticeBase)
+2024-04-04 15:10:08,822 DEBUG [restartedMain] Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-04-04 15:10:11,711 INFO [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-04 15:10:41,969 INFO [restartedMain] Started ApiSearchPracticeBaseApplication in 39.459 seconds (process running for 42.871)
+2024-04-04 15:11:00,617 INFO [restartedMain] Starting ApiSearchPracticeBaseApplication using Java 18.0.1 with PID 19040 (C:\Users\gusdi\IdeaProjects\ApiSearchPracticeBase\target\classes started by gusdi in C:\Users\gusdi\IdeaProjects\ApiSearchPracticeBase)
+2024-04-04 15:11:57,149 INFO [restartedMain] Starting ApiSearchPracticeBaseApplication using Java 18.0.1 with PID 10860 (C:\Users\gusdi\IdeaProjects\ApiSearchPracticeBase\target\classes started by gusdi in C:\Users\gusdi\IdeaProjects\ApiSearchPracticeBase)
+2024-04-04 15:12:01,384 DEBUG [restartedMain] Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-04-04 15:12:03,828 INFO [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-04 15:12:31,393 INFO [restartedMain] Started ApiSearchPracticeBaseApplication in 35.321 seconds (process running for 38.082)
