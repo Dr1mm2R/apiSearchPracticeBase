@@ -43,7 +43,7 @@ public class ImageController {
     private final Storage storage;
 
     public ImageController() throws IOException {
-        FileInputStream serviceAccount = new FileInputStream("/app/searchpracticebaseproject-firebase-adminsdk-60xwx-7514dc3fb5.json");
+        FileInputStream serviceAccount = new FileInputStream("searchpracticebaseproject-firebase-adminsdk-60xwx-7514dc3fb5.json");
         GoogleCredentials credentials = GoogleCredentials.fromStream(serviceAccount);
         StorageOptions options = StorageOptions.newBuilder().setCredentials(credentials).build();
         storage = options.getService();
