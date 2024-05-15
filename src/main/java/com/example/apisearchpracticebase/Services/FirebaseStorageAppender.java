@@ -23,7 +23,7 @@ public class FirebaseStorageAppender extends AppenderBase<ILoggingEvent> {
     public void start() {
         super.start();
         try {
-            FileInputStream serviceAccount = new FileInputStream("/app/src/main/resources/searchpracticebaseproject-firebase-adminsdk-60xwx-7514dc3fb5.json");
+            FileInputStream serviceAccount = new FileInputStream("/src/main/resources/searchpracticebaseproject-firebase-adminsdk-60xwx-7514dc3fb5.json");
             GoogleCredentials credentials = GoogleCredentials.fromStream(serviceAccount);
             StorageOptions options = StorageOptions.newBuilder().setCredentials(credentials).build();
             storage = options.getService();
